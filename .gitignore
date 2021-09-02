@@ -1,5 +1,7 @@
 .vscode
 notes/config.json
+azuremlstudio/devintrods/config.json
 *.csv
 notes/.azureml
 *.log
+*.pkl
