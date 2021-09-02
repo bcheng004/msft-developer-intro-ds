@@ -1,3 +1,5 @@
 .vscode
 notes/config.json
 *.csv
+notes/.azureml
+*.log
